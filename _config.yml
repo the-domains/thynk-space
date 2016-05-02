@@ -1,7 +1,7 @@
 name: thynk.space
 favicon: null
-layout_spectrum: 0.12614977359771729
-typography_spectrum: 0.418993913102895
+layout_spectrum: 0.28993
+typography_spectrum: 0.63286
 title: thynk.space
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.44404232292436063
-  lightness: 0.9899078032467514
-  saturation: 0.995380527107045
-  rhythmicContrast: 0.9121954084839672
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
