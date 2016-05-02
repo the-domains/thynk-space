@@ -1,0 +1,28 @@
+name: thynk.space
+favicon: null
+layout_spectrum: 0.12614977359771729
+typography_spectrum: 0.418993913102895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.44404232292436063
+  lightness: 0.9899078032467514
+  saturation: 0.995380527107045
+  rhythmicContrast: 0.9121954084839672
+purpose: []
